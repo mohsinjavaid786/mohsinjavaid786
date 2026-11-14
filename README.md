@@ -4,9 +4,9 @@
 
 I work where product strategy, user experience, and engineering meet—helping teams decide what matters, build it well, and get it into people's hands.
 
-I'm **Head of Product Delivery at Unmudl** and a **Partner at Turing Technologies**, based in Islamabad, Pakistan. I lead cross-functional product delivery across SaaS platforms, workforce marketplaces, and AI-enabled experiences, working closely with engineers, designers, and business stakeholders.
+I'm a **product leader and Partner at Turing Technologies**, based in Islamabad, Pakistan. I lead cross-functional product delivery across SaaS platforms, workforce marketplaces, and AI-enabled experiences, working closely with engineers, designers, and business stakeholders.
 
-[LinkedIn](https://www.linkedin.com/in/mohsinjavaid47/) · [Unmudl](https://unmudl.com/) · [Explore my repositories](https://github.com/mohsinjavaid786?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/mohsinjavaid47/) · [Explore my repositories](https://github.com/mohsinjavaid786?tab=repositories)
 
 ---
 
@@ -26,8 +26,6 @@ A self-hosted workspace for persistent AI teammates, with roles, curated memory,
 **Currently a foundation preview for one trusted local owner.** My focus is making AI-assisted work easier to direct, review, and continue.
 
 ## Beyond the repositories
-
-At **Unmudl**, my work connects skills, learning, and career opportunities. I lead delivery across learner, employer, and college experiences, including AI-assisted journeys, marketplace access, reporting, and platform improvements.
 
 At **Turing Technologies**, I help turn business needs into product direction and delivery plans, keeping stakeholders and implementation teams aligned from discovery through release.
 
