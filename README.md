@@ -17,17 +17,13 @@ I'm **Head of Product Delivery at Unmudl** and a **Partner at Turing Technologie
 - **SaaS and marketplaces:** connecting users, organizations, payments, and data through coherent product experiences.
 - **Team leadership:** bringing product, design, engineering, and QA together around clear priorities and practical decisions.
 
-## Selected projects
+## Featured project
 
 ### [Boss Bot](https://github.com/mohsinjavaid786/boss-bot)
 
 A self-hosted workspace for persistent AI teammates, with roles, curated memory, tasks, approvals, and saved results. It connects to local Codex and Claude Code runtimes, with optional API adapters.
 
 **Currently a foundation preview for one trusted local owner.** My focus is making AI-assisted work easier to direct, review, and continue.
-
-### [Nexpanel](https://github.com/mohsinjavaid786/Nexpanel-Tremor)
-
-A React and TypeScript dashboard template exploring reusable components, data-rich interfaces, and consistent design systems for SaaS products and internal tools.
 
 ## Beyond the repositories
 
