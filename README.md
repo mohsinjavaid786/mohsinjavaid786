@@ -26,6 +26,18 @@ With a computer science background, I stay close to implementation: shaping requ
 
 Start with the problem. Make the tradeoffs clear. Ship something useful. Learn from what people do next.
 
+```mermaid
+flowchart LR
+    A["Understand the problem"] --> B["Align priorities and ownership"]
+    B --> C["Build and validate"]
+    C --> D{"Ready to ship?"}
+    D -->|"Refine"| C
+    D -->|"Yes"| E["Ship and measure"]
+    E -->|"User feedback and results"| B
+```
+
+I keep product, design, engineering, QA, and business stakeholders aligned throughout the cycle, using customer feedback and delivery results to guide what comes next.
+
 ## Featured personal projects
 
 Projects I build independently to explore AI, developer workflows, and team tools.
