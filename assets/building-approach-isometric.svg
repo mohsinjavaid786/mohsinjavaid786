@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="680" viewBox="0 0 1040 680" role="img" aria-labelledby="title desc">
+<title id="title">How I approach building products</title>
+<desc id="desc">Three stacked perspective panels show my approach: understand the user problem and desired outcome; align priorities, scope, and ownership; build, test, and ship, then use feedback to improve.</desc>
+<rect width="1040" height="680" fill="#050505"/>
+<defs>
+<g id="plate">
+<rect x="0" y="5" width="300" height="130" rx="10" fill="#090b0d" stroke="#696d70"/>
+<rect width="300" height="130" rx="10" fill="#0e1216" stroke="#d0d2d4" stroke-width="1.2"/>
+<rect x="8" y="8" width="284" height="114" rx="7" fill="none" stroke="#343a40" stroke-width="0.8"/>
+</g>
+<g id="cross" fill="none" stroke="#8b8f92" stroke-width="1"><path d="M-10 0H10M0-10V10"/></g>
+</defs>
+<g fill="none" stroke="#6e7377" stroke-width="1" stroke-dasharray="5 5">
+<path d="M330 100V450M630 142V492M258.5 188.4V538.4M558.5 230.4V580.4"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="56" y="53" fill="#9b9fa4" font-size="11" letter-spacing="3">FROM PROBLEM TO PRODUCT</text>
+
+<g transform="matrix(1 .14 -.55 .68 330 100)">
+<use href="#plate"/>
+<rect x="15" y="15" width="270" height="28" rx="5" fill="#0a0d10" stroke="#4f555b"/>
+<circle cx="29" cy="29" r="3" fill="#e5e7e9"/>
+<text x="42" y="34" fill="#eceeef" font-size="14" font-weight="600">Start with the problem</text>
+<rect x="15" y="54" width="270" height="59" rx="4" fill="none" stroke="#4b5056" stroke-dasharray="4 4"/>
+<text x="150" y="80" fill="#a6abb0" font-size="11" letter-spacing="2" text-anchor="middle">USER NEEDS</text>
+<path d="M78 94H222M105 102H195" stroke="#343a40"/>
+</g>
+
+<g transform="matrix(1 .14 -.55 .68 330 275)">
+<use href="#plate"/>
+<g fill="#0a0e12" stroke="#343a40">
+<rect x="15" y="15" width="270" height="28" rx="4"/>
+<rect x="15" y="51" width="270" height="28" rx="4"/>
+<rect x="15" y="87" width="270" height="28" rx="4" stroke="#b0b5ba"/>
+</g>
+<g fill="none" stroke="#92989e"><circle cx="30" cy="29" r="3"/><circle cx="30" cy="65" r="3"/><circle cx="30" cy="101" r="3"/></g>
+<g fill="#e1e4e7" font-size="14">
+<text x="44" y="34">Outcome</text><text x="44" y="70">Scope and tradeoffs</text><text x="44" y="106">Team and ownership</text>
+</g>
+<path d="M260 99L265 104L277 93" fill="none" stroke="#e5e7e9" stroke-width="1.5"/>
+</g>
+
+<g transform="matrix(1 .14 -.55 .68 330 450)">
+<use href="#plate"/>
+<g fill="#0a0e12" stroke="#4b5157">
+<rect x="15" y="15" width="80" height="36" rx="4"/>
+<rect x="110" y="15" width="80" height="36" rx="4"/>
+<rect x="205" y="15" width="80" height="36" rx="4"/>
+</g>
+<g fill="#e1e4e7" font-size="14" text-anchor="middle"><text x="55" y="38">Build</text><text x="150" y="38">Test</text><text x="245" y="38">Ship</text></g>
+<path d="M97 33H107M192 33H202" stroke="#9da3a9"/>
+<rect x="15" y="65" width="270" height="49" rx="5" fill="#202428" stroke="#eef0f2" stroke-width="1.4"/>
+<text x="150" y="87" fill="#f0f2f4" font-size="14" text-anchor="middle">Measure, learn, improve</text>
+<path d="M84 99H216" stroke="#7c838a"/>
+</g>
+
+<g fill="none" stroke="#b5b9bd" stroke-width="1.2">
+<path d="M603 174L660 157H681"/>
+<path d="M603 349L660 332H681"/>
+<path d="M603 524L660 507H681"/>
+</g>
+<g fill="#f1f3f5"><circle cx="603" cy="174" r="2.7"/><circle cx="603" cy="349" r="2.7"/><circle cx="603" cy="524" r="2.7"/></g>
+
+<g transform="translate(695 120)">
+<rect width="27" height="23" rx="2" fill="none" stroke="#b5b9bd"/>
+<text x="13.5" y="16" text-anchor="middle" fill="#e2e5e8" font-family="monospace" font-size="12">01</text>
+<text y="53" fill="#f1f3f5" font-size="22" font-weight="700">Understand the problem</text>
+<text y="79" fill="#aeb4ba" font-size="15">Who needs this? What should change?</text>
+</g>
+
+<g transform="translate(695 295)">
+<rect width="27" height="23" rx="2" fill="none" stroke="#b5b9bd"/>
+<text x="13.5" y="16" text-anchor="middle" fill="#e2e5e8" font-family="monospace" font-size="12">02</text>
+<text y="53" fill="#f1f3f5" font-size="22" font-weight="700">Align the team</text>
+<text y="79" fill="#aeb4ba" font-size="15">Make priorities and tradeoffs clear.</text>
+<text y="101" fill="#aeb4ba" font-size="15">Give people ownership of the outcome.</text>
+</g>
+
+<g transform="translate(695 470)">
+<rect width="27" height="23" rx="2" fill="none" stroke="#b5b9bd"/>
+<text x="13.5" y="16" text-anchor="middle" fill="#e2e5e8" font-family="monospace" font-size="12">03</text>
+<text y="53" fill="#f1f3f5" font-size="22" font-weight="700">Deliver and improve</text>
+<text y="79" fill="#aeb4ba" font-size="15">Build, test, and put it in users' hands.</text>
+<text y="101" fill="#aeb4ba" font-size="15">Use real feedback to guide the next step.</text>
+</g>
+<text x="330" y="627" fill="#777e85" font-size="11" letter-spacing="2">PRODUCT · DESIGN · ENGINEERING · QA</text>
+</g>
+<g><use href="#cross" x="20" y="20"/><use href="#cross" x="1020" y="20"/><use href="#cross" x="20" y="660"/><use href="#cross" x="1020" y="660"/></g>
+</svg>
