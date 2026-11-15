@@ -50,13 +50,18 @@ I share practical lessons on AI, engineering, and building software on the [Turi
 
 - [How to Build an AI Agent: A 3-Level Roadmap From Beginner to Production](https://www.turingtechnologies.org/blog/how-to-build-an-ai-agent-a-3-level-roadmap-from-beginner-to-production)
 - [Lessons from Building Enterprise-Facing APIs](https://www.turingtechnologies.org/blog/lessons-building-enterprise-facing-apis)
-- [Lessons Learned While Moving Our Frontend to a Monorepo](https://www.turingtechnologies.org/blog/lessons-learned-moving-frontend-to-single-monorepo)
 
 ## Technology I work with
 
-**Web & platforms:** TypeScript, React, Next.js, Node.js, NestJS, MongoDB  
-**Cloud & delivery:** AWS, Vercel, Docker, GitHub, GitLab CI/CD  
-**AI & automation:** Codex, Claude Code, agent orchestration, retrieval-augmented generation, API integrations
+| Area | Technologies |
+|---|---|
+| **Web interfaces** | TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite |
+| **Backend & APIs** | Node.js, NestJS, Express, REST APIs |
+| **Desktop apps** | ElectronJS, React, desktop capture, native activity integrations |
+| **Databases & services** | Supabase, PostgreSQL, MongoDB, Supabase Auth & Storage |
+| **Cloud & delivery** | AWS, Vercel, Railway, Docker, GitHub Actions, GitLab CI/CD, pnpm workspaces |
+| **AI & automation** | Codex, Claude Code, Claude Agent SDK, agent orchestration, retrieval-augmented generation |
+| **Integrations** | ClickUp, Slack, Resend, GitLab merge request automation |
 
 ---
 
