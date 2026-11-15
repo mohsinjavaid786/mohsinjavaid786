@@ -22,13 +22,9 @@ With a computer science background, I stay close to implementation: shaping requ
 - **Applied AI and automation:** building agents, assistants, and workflows for product experiences and internal operations.
 - **Growth and go-to-market:** connecting product decisions with positioning, content, campaigns, and customer adoption.
 
-## Build with us at Turing Technologies
+## Featured personal projects
 
-At [Turing Technologies](https://www.turingtechnologies.org/), we bring product, design, and engineering together to build digital products for startups and established businesses.
-
-I'm keen to meet engineers, designers, QA specialists, and product thinkers who care about their craft, take ownership, and enjoy solving problems as a team. If that sounds like you, explore [careers at Turing](https://www.turingtechnologies.org/careers) or [connect with me on LinkedIn](https://www.linkedin.com/in/mohsinjavaid47/). Share something you've built and what you'd like to work on next.
-
-## Featured projects
+Projects I build independently to explore AI, developer workflows, and team tools.
 
 ### [Boss Bot](https://github.com/mohsinjavaid786/boss-bot)
 
@@ -61,6 +57,16 @@ I share practical lessons on AI, engineering, and building software on the [Turi
 **Web & platforms:** TypeScript, React, Next.js, Node.js, NestJS, MongoDB  
 **Cloud & delivery:** AWS, Vercel, Docker, GitHub, GitLab CI/CD  
 **AI & automation:** Codex, Claude Code, agent orchestration, retrieval-augmented generation, API integrations
+
+---
+
+## Build with us at Turing Technologies
+
+At [Turing Technologies](https://www.turingtechnologies.org/), we bring product, design, and engineering together to build digital products for startups and established businesses.
+
+I'm keen to meet engineers, designers, QA specialists, and product thinkers who care about their craft, take ownership, and enjoy solving problems as a team. If that sounds like you, explore [careers at Turing](https://www.turingtechnologies.org/careers) or [connect with me on LinkedIn](https://www.linkedin.com/in/mohsinjavaid47/). Share something you've built and what you'd like to work on next.
+
+---
 
 ## How I approach building
 
