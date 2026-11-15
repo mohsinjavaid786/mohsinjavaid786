@@ -62,7 +62,7 @@ Currently a local prototype focused on taking work from a task through implement
 
 ## Writing
 
-Selected articles by **Mohsin Javaid**, sharing practical lessons on AI, engineering, and building software on the [Turing Tech blog](https://www.turingtechnologies.org/blog).
+I write about what I learn building AI products, designing APIs, and leading product delivery. Here are a couple of my articles on the [Turing Tech blog](https://www.turingtechnologies.org/blog).
 
 - [How to Build an AI Agent: A 3-Level Roadmap From Beginner to Production](https://www.turingtechnologies.org/blog/how-to-build-an-ai-agent-a-3-level-roadmap-from-beginner-to-production)
 - [Lessons from Building Enterprise-Facing APIs](https://www.turingtechnologies.org/blog/lessons-building-enterprise-facing-apis)
