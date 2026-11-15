@@ -31,6 +31,12 @@ A self-hosted time tracking platform for teams, connecting desktop timers, multi
 
 Built with **Electron, Next.js, NestJS, and Supabase**. It brings the employee tracking workflow and manager review experience together on infrastructure the team controls.
 
+### [Dev Agent](https://github.com/mohsinjavaid786/Dev-Agent)
+
+A local workspace for AI-assisted development that brings projects, chats, repository context, and coding agents together. It connects **Claude and an optional Codex worker** with **ClickUp tasks and GitLab merge requests**, including review follow-up and optional Slack updates.
+
+Currently a local prototype focused on taking work from a task through implementation to human review.
+
 ## Beyond the repositories
 
 At **Turing Technologies**, I help turn business needs into product direction and delivery plans, keeping stakeholders and implementation teams aligned from discovery through release.
