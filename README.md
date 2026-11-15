@@ -22,6 +22,10 @@ With a computer science background, I stay close to implementation: shaping requ
 - **Applied AI and automation:** building agents, assistants, and workflows for product experiences and internal operations.
 - **Growth and go-to-market:** connecting product decisions with positioning, content, campaigns, and customer adoption.
 
+## How I approach building
+
+Start with the problem. Make the tradeoffs clear. Ship something useful. Learn from what people do next.
+
 ## Featured personal projects
 
 Projects I build independently to explore AI, developer workflows, and team tools.
@@ -71,12 +75,4 @@ At [Turing Technologies](https://www.turingtechnologies.org/), we bring product,
 
 I'm keen to meet engineers, designers, QA specialists, and product thinkers who care about their craft, take ownership, and enjoy solving problems as a team. If that sounds like you, explore [careers at Turing](https://www.turingtechnologies.org/careers) or [connect with me on LinkedIn](https://www.linkedin.com/in/mohsinjavaid47/). Share something you've built and what you'd like to work on next.
 
----
-
-## How I approach building
-
-Start with the problem. Make the tradeoffs clear. Ship something useful. Learn from what people do next.
-
-I'm interested in thoughtful conversations and collaborations around **AI products, enterprise SaaS, workforce technology, and product leadership**.
-
-[Let's connect on LinkedIn →](https://www.linkedin.com/in/mohsinjavaid47/)
+Beyond hiring, I'm always open to conversations about **AI products, enterprise SaaS, and building technical teams**. [Let's connect on LinkedIn →](https://www.linkedin.com/in/mohsinjavaid47/)
