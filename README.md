@@ -61,11 +61,11 @@ I share practical lessons on AI, engineering, and building software on the [Turi
 |---|---|
 | **Web interfaces** | TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite |
 | **Backend & APIs** | Node.js, NestJS, Express, REST APIs |
-| **Desktop apps** | ElectronJS, React, desktop capture, native activity integrations |
+| **Desktop apps** | ElectronJS, React |
 | **Databases & services** | Supabase, PostgreSQL, MongoDB, Supabase Auth & Storage |
 | **Cloud & delivery** | AWS, Vercel, Railway, Docker, GitHub Actions, GitLab CI/CD, pnpm workspaces |
 | **AI & automation** | Codex, Claude Code, Claude Agent SDK, agent orchestration, retrieval-augmented generation |
-| **Integrations** | ClickUp, Slack, Resend, GitLab merge request automation |
+| **Integrations** | Stripe, ClickUp, Slack, Twilio, Resend |
 
 ---
 
