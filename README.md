@@ -26,7 +26,7 @@ With a computer science background, I stay close to implementation: shaping requ
 
 Start with the problem. Make the tradeoffs clear. Ship something useful. Learn from what people do next.
 
-![My approach: understand the problem, align priorities and ownership, build and validate, then ship, measure, and refine.](assets/building-approach.svg)
+![My four-step approach: Understand, Prioritize, Build and ship, Measure and learn. Feedback informs the next priorities.](assets/building-approach-four-steps.svg)
 
 I keep product, design, engineering, QA, and business stakeholders aligned throughout the cycle, using customer feedback and delivery results to guide what comes next.
 
