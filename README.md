@@ -4,13 +4,13 @@
 
 **Leading product strategy, delivery, and growth across multiple products and teams.**
 
-I'm based in Islamabad, Pakistan, where I oversee product direction and delivery across [Turing Technologies' client engagements](https://www.turingtechnologies.org/). My work spans SaaS platforms, marketplaces, and AI products, bringing engineering, design, QA, marketing, sales, and clients together from initial strategy through launch and continued growth.
+I'm **Mohsin Javaid**, Partner & Head of Product Delivery at [Turing Technologies](https://www.turingtechnologies.org/), based in **Islamabad, Pakistan**. On GitHub, you'll find me as [**@mohsinjavaid786**](https://github.com/mohsinjavaid786). I oversee product direction and delivery across the company's client engagements. My work spans SaaS platforms, marketplaces, and AI products, bringing engineering, design, QA, marketing, sales, and clients together from initial strategy through launch and continued growth.
 
 I've helped deliver **10+ products from concept to launch**. Alongside delivery, I interview and select engineering and design talent, mentor team leads, and build teams that can take ownership and operate independently.
 
 With a computer science background, I stay close to implementation: shaping requirements, weighing technical tradeoffs, building prototypes, and contributing to web products. I also build AI agents and automations that improve how teams design, develop, and deliver software.
 
-[LinkedIn](https://www.linkedin.com/in/mohsinjavaid47/) · [Explore my repositories](https://github.com/mohsinjavaid786?tab=repositories)
+[Mohsin Javaid on LinkedIn](https://www.linkedin.com/in/mohsinjavaid47/) · [Turing Technologies team](https://www.turingtechnologies.org/team) · [Explore my repositories](https://github.com/mohsinjavaid786?tab=repositories)
 
 ---
 
@@ -50,7 +50,7 @@ Currently a local prototype focused on taking work from a task through implement
 
 ## Writing
 
-I share practical lessons on AI, engineering, and building software on the [Turing Tech blog](https://www.turingtechnologies.org/blog).
+Selected articles by **Mohsin Javaid**, sharing practical lessons on AI, engineering, and building software on the [Turing Tech blog](https://www.turingtechnologies.org/blog).
 
 - [How to Build an AI Agent: A 3-Level Roadmap From Beginner to Production](https://www.turingtechnologies.org/blog/how-to-build-an-ai-agent-a-3-level-roadmap-from-beginner-to-production)
 - [Lessons from Building Enterprise-Facing APIs](https://www.turingtechnologies.org/blog/lessons-building-enterprise-facing-apis)
