@@ -6,7 +6,7 @@
 
 I'm **Mohsin Javaid**, Partner & Head of Product Delivery at [Turing Technologies](https://www.turingtechnologies.org/), based in **Islamabad, Pakistan**. On GitHub, you'll find me as [**@mohsinjavaid786**](https://github.com/mohsinjavaid786). I oversee product direction and delivery across the company's client engagements. My work spans SaaS platforms, marketplaces, and AI products, bringing engineering, design, QA, marketing, sales, and clients together from initial strategy through launch and continued growth.
 
-I've helped deliver **10+ products from concept to launch**. Alongside delivery, I interview and select engineering and design talent, mentor team leads, and build teams that can take ownership and operate independently.
+I've helped deliver **10+ products from concept to launch**. Through my role at Turing Technologies, I've worked directly with clients ranging from **Fortune 500 companies** to **startups backed by Y Combinator and supported by Google for Startups**. Alongside delivery, I interview and select engineering and design talent, mentor team leads, and build teams that can take ownership and operate independently.
 
 With a computer science background, I stay close to implementation: shaping requirements, weighing technical tradeoffs, building prototypes, and contributing to web products. I also build AI agents and automations that improve how teams design, develop, and deliver software.
 
