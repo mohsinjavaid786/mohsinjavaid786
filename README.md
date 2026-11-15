@@ -17,13 +17,19 @@ I'm a **product leader and Partner at Turing Technologies**, based in Islamabad,
 - **SaaS and marketplaces:** connecting users, organizations, payments, and data through coherent product experiences.
 - **Team leadership:** bringing product, design, engineering, and QA together around clear priorities and practical decisions.
 
-## Featured project
+## Featured projects
 
 ### [Boss Bot](https://github.com/mohsinjavaid786/boss-bot)
 
 A self-hosted workspace for persistent AI teammates, with roles, curated memory, tasks, approvals, and saved results. It connects to local Codex and Claude Code runtimes, with optional API adapters.
 
 **Currently a foundation preview for one trusted local owner.** My focus is making AI-assisted work easier to direct, review, and continue.
+
+### [ClockWork](https://github.com/mohsinjavaid786/ClockWork)
+
+A self-hosted time tracking platform for teams, connecting desktop timers, multi-monitor screenshots, activity insights, timesheets, and reporting with a web admin dashboard.
+
+Built with **Electron, Next.js, NestJS, and Supabase**. It brings the employee tracking workflow and manager review experience together on infrastructure the team controls.
 
 ## Beyond the repositories
 
