@@ -1,21 +1,26 @@
 # Mohsin Javaid
 
-### Product leader. AI product builder. Turning complex problems into useful software.
+### Partner & Head of Product Delivery at Turing Technologies
 
-I work where product strategy, user experience, and engineering meet—helping teams decide what matters, build it well, and get it into people's hands.
+**Leading product strategy, delivery, and growth across multiple products and teams.**
 
-I'm a **product leader and Partner at [Turing Technologies](https://www.turingtechnologies.org/)**, based in Islamabad, Pakistan. I lead cross-functional product delivery across SaaS platforms, workforce marketplaces, and AI-enabled experiences, working closely with engineers, designers, and business stakeholders.
+I'm based in Islamabad, Pakistan, where I oversee product direction and delivery across [Turing Technologies' client engagements](https://www.turingtechnologies.org/). My work spans SaaS platforms, marketplaces, and AI products, bringing engineering, design, QA, marketing, sales, and clients together from initial strategy through launch and continued growth.
+
+I've helped deliver **10+ products from concept to launch**. Alongside delivery, I interview and select engineering and design talent, mentor team leads, and build teams that can take ownership and operate independently.
+
+With a computer science background, I stay close to implementation: shaping requirements, weighing technical tradeoffs, building prototypes, and contributing to web products. I also build AI agents and automations that improve how teams design, develop, and deliver software.
 
 [LinkedIn](https://www.linkedin.com/in/mohsinjavaid47/) · [Explore my repositories](https://github.com/mohsinjavaid786?tab=repositories)
 
 ---
 
-## What I work on
+## What I lead and build
 
-- **Product strategy and delivery:** translating business goals and customer problems into focused roadmaps, clear requirements, and shipped features.
-- **Applied AI:** building agent workflows, assistants, and automation that fit the way people actually work.
-- **SaaS and marketplaces:** connecting users, organizations, payments, and data through coherent product experiences.
-- **Team leadership:** bringing product, design, engineering, and QA together around clear priorities and practical decisions.
+- **Product strategy across engagements:** setting direction and priorities across multiple products, balancing customer needs, business goals, and delivery capacity.
+- **Delivery and client partnerships:** aligning teams and stakeholders around roadmaps, managing dependencies, and keeping ownership clear from discovery through release.
+- **Teams and talent:** hiring engineers and designers, mentoring leads, and developing teams that can make decisions and deliver independently.
+- **Applied AI and automation:** building agents, assistants, and workflows for product experiences and internal operations.
+- **Growth and go-to-market:** connecting product decisions with positioning, content, campaigns, and customer adoption.
 
 ## Build with us at Turing Technologies
 
